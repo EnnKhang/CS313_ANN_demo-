@@ -54,7 +54,7 @@ The recorded experiment used 5,000 training images,
 |---|---:|
 | SimpleCNN | 65.9% |
 | Random Forest | 39.1% |
-| Logistic Regression | 29.4% |
+| Logistic Regression | 29.2% |
 | Naive Bayes | 29.5% |
 | Decision Tree | 22.5% |
 
